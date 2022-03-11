@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Anu
+- 👋 Hi, I’m @Anagha Shah
 - 🌱 I’m currently learning Computer Engineering from Computer Engineering
