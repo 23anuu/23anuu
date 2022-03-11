@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Anu
+- 🌱 I’m currently learning Computer Engineering from Computer Engineering
